@@ -29,8 +29,7 @@ Este projeto demonstra como criar um servidor web simples utilizando um Raspberr
 *   Cabo Micro USB
 *   Roteador Wi-Fi com acesso à internet (para o Pico W se conectar)
 
-## 🔌 Esquema de Conexão (Sugestão)
-
+## 🔌 Esquema de Conexão 
 *   **Joystick Eixo Y (VRY):** Conectar ao pino ADC0 (GP26) do Pico.
 *   **Joystick Eixo X (VRX):** Conectar ao pino ADC1 (GP27) do Pico.
 *   **Botão A:** Conectar ao pino GP5 do Pico. Configurado com pull-up interno, então o outro terminal do botão vai para o GND.
@@ -58,7 +57,7 @@ Este projeto demonstra como criar um servidor web simples utilizando um Raspberr
 
 1.  **Clone o repositório (se estiver no GitHub):**
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https://github.com/ThiLinhares/-Tarefa_Pr-tica_-IOT_2
     cd SEU_REPOSITORIO
     ```
 2.  **Configure o Wi-Fi:** Edite o `main.c` conforme a seção "Configuração do Software".
@@ -90,11 +89,15 @@ Este projeto demonstra como criar um servidor web simples utilizando um Raspberr
     *   Digite o endereço IP (ex: `http://192.168.1.100`) no seu navegador web (no computador ou celular conectado à mesma rede Wi-Fi).
     *   Você deverá ver a página com as informações do joystick, botões e temperatura.
 
-## 🖼️ Demonstração (Exemplo)
+## 🖼️ Demonstração 
 
-*(Aqui você pode adicionar uma captura de tela da página web funcionando)*
+Imagem da página html no navegador: 
+![image](https://github.com/user-attachments/assets/e413bf3a-f579-4159-8330-b3bc063d524f)
 
-![Exemplo da Página Web](link_para_sua_imagem_ou_caminho_local_se_adicionar_ao_repo.png)
+Imagem do terminal da IDE:
+![image](https://github.com/user-attachments/assets/119226ac-6720-4d4f-9fc7-293566afd6a5)
+
+
 
 ## 👨‍💻 Código Fonte
 
