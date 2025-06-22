@@ -91,9 +91,19 @@ Este projeto demonstra como criar um servidor web simples utilizando um Raspberr
 
 ## 🖼️ Demonstração 
 
-Imagem da página html no navegador: ![image](https://github.com/user-attachments/assets/e413bf3a-f579-4159-8330-b3bc063d524f)
+Imagem da página html no navegador:
 
-Imagem do terminal da IDE:![image](https://github.com/user-attachments/assets/119226ac-6720-4d4f-9fc7-293566afd6a5)
+
+![image](https://github.com/user-attachments/assets/e413bf3a-f579-4159-8330-b3bc063d524f)
+
+
+
+
+
+Imagem do terminal da IDE:
+
+
+![image](https://github.com/user-attachments/assets/119226ac-6720-4d4f-9fc7-293566afd6a5)
 
 
 
